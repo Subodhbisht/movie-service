@@ -1,4 +1,4 @@
-package com.sbisht.netflux.movie_service;
+package com.sbisht.netflux.movie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
